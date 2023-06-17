@@ -2,7 +2,7 @@
 This application was a project developed by students from the Pontifical Catholic University of Minas Gerais, during the months of May and June 2023.
 
 
-##Students:
+#Students:
 - [Alfredo](...)
 - [Ana Rezende](...)
 - [Davi](...)
@@ -10,13 +10,13 @@ This application was a project developed by students from the Pontifical Catholi
 - [Roge Lemos](...) 
 
 
-##Codes
+#Codes
 -[App](...)
 -[NodeMCU](...)
 -[Node-Red](...)
 
-##Screen
-[...](...)
+#Screen
+- [...](...)
 
-##Slide
-[Slide](...)
+#Slide
+- [Slide](...)
