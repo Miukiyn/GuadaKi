@@ -1,6 +1,5 @@
-
+![interface](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png)
 <div>
-  ![interface](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png)
   <img aling="center" alt="Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
   <img aling="center" alt="MacOS/IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
   <img aling="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
