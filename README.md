@@ -1,4 +1,4 @@
-![interface](https://github.com/seu-usuario/seu-repositorio/raw/main/pasta-da-imagem/imagem.png)
+![interface](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png)
 
 
 
