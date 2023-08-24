@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54E007E7-85F1-4173-9F13-560C3FE6833C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35331644-5D57-4046-916A-184D1CE42C07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APICallJson/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35331644-5D57-4046-916A-184D1CE42C07 - 99ef7fe8ec966710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APICallJson.ViewModel.fetch() -&gt; ()"
+                  moduleName = "APICallJson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eldorado/Desktop/Materiais/REST/APICallJson/APICallJson/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "35331644-5D57-4046-916A-184D1CE42C07 - 99ef7fe8ec966710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APICallJson.ViewModel.fetch() -&gt; ()"
+                  moduleName = "APICallJson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eldorado/Desktop/Materiais/REST/APICallJson/APICallJson/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
