@@ -32,7 +32,7 @@ Este desenvolvimento não apenas demonstra o potencial dos estudantes para causa
 - [Roge Lemos](...)  
 
 ## Slide
-- [Slide](...)
+- [Slide](https://github.com/Miukiyn/GuadaKi/blob/main/Slide/Guadaki-Slide-Project.pdf)
 
 ## Trajectory
 - [Hackatruck: Empreendendo com Inovação e Tecnologia no Caminhão da IBM](https://www.linkedin.com/pulse/hackatruck-empreendendo-com-inova%C3%A7%C3%A3o-e-tecnologia-da-ibm-ferreira/)
