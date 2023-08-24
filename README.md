@@ -1,4 +1,4 @@
-![Logo do Meu Projeto]([https://github.com/seu-usuario/seu-repositorio/raw/main/pasta-da-imagem/imagem.png](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png))
+![Logo do Meu Projeto](https://github.com/seu-usuario/seu-repositorio/raw/main/pasta-da-imagem/imagem.png)
 
 
 
