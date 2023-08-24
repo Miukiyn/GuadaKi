@@ -12,10 +12,17 @@
   <img aling="center" alt="IMB" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png"/>
 </div>
 
+# Guadaki: Simplificando a Mobilidade com o Aluguel de Armários
 
+O Guadaki surgiu como resultado do esforço colaborativo de um grupo de estudantes talentosos da Pontifícia Universidade Católica de Minas Gerais. Este projeto inovador engloba a criação de um aplicativo para iPhone destinado a facilitar o aluguel de 'armários' ou espaços de armazenamento, permitindo que as pessoas guardem seus pertences com segurança durante passeios. O objetivo é amenizar o peso de carregar mochilas e bolsas, promovendo conveniência e leveza em diversas atividades cotidianas.
 
-# GuadaKi
-This application was a project developed by students from the Pontifical Catholic University of Minas Gerais, during the months of May and June 2023.
+A gênese do projeto foi baseada na necessidade de abordar os desafios de carregar itens pessoais durante deslocamentos. O Guadaki busca redefinir a conveniência ao oferecer uma solução que permite às pessoas armazenarem suas posses de maneira prática e segura, aprimorando assim sua mobilidade e experiência geral.
+
+Guiada por uma abordagem visionária, a equipe colaborou de perto com o [HackTrunk](https://hackatruck.com.br/), uma iniciativa renomada por fomentar soluções inovadoras. A equipe do HackTrunk prestou apoio inestimável ao equipar os estudantes com recursos essenciais e orientações ao longo da jornada de desenvolvimento.
+
+O projeto Guadaki simboliza o poder da colaboração, inovação e iniciativas conduzidas por estudantes. Ao unir a experiência da Pontifícia Universidade Católica de Minas Gerais com o apoio do HackTrunk, esta empreitada é testemunho da criatividade e engenhosidade de jovens mentes dedicadas a tornar a vida cotidiana mais eficiente e agradável.
+
+Este desenvolvimento não apenas demonstra o potencial dos estudantes para causar um impacto positivo, mas também destaca a importância de promover um ambiente que nutra ideias inovadoras e as transforme em soluções tangíveis.
 
 ## Devs:
 - [Alfredo](...)  
