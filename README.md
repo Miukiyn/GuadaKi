@@ -1,4 +1,4 @@
-![interface](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png)
+![interface](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png){largura="200" altura="100"}
 
 
 
