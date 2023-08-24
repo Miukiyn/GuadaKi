@@ -29,7 +29,7 @@ Este desenvolvimento não apenas demonstra o potencial dos estudantes para causa
 - [Ana Rezende](https://github.com/anarezend3)  
 - [Davi](https://github.com/daviferreiradev)  
 - [Iago Adrien](https://github.com/Miukiyn)  
-- [Roge Lemos](...)  
+- [Roger Lemos](https://github.com/RogUnique)  
 
 ## Slide
 - [Slide](https://github.com/Miukiyn/GuadaKi/blob/main/Slide/Guadaki-Slide-Project.pdf)
