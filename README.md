@@ -1,4 +1,6 @@
-<img aling="center" alt="interface"  src="https://github.com/Miukiyn/GuadaKi/blob/main/img/guardaki-interface.png"/>
+<div align="center">
+  <img aling="center" alt="interface" height="400" width="370" src="https://github.com/Miukiyn/GuadaKi/blob/main/img/guardakiInterface.png"/>
+</div>
 <div align="center">
   <img aling="center" alt="MacOS/IOS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
   <img aling="center" alt="Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
