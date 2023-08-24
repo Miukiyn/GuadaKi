@@ -6,7 +6,7 @@
   <img aling="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img aling="center" alt="NodeMCU" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/>
   <img aling="center" alt="NodeRed" height="30" width="30" src="https://nodered.org/about/resources/media/node-red-icon.png"/>
-  <img aling="center" alt="IMB" height="30" width="40" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>
+  <img aling="center" alt="IMB" height="40" width="60" src="https://www.nicepng.com/png/full/858-8585442_cloud-native-intelligence-for-ibm-cloud-ibm-cloud.png"/>
 </div>
 
 
