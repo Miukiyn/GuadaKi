@@ -22,4 +22,10 @@ This application was a project developed by students from the Pontifical Catholi
 - [Roge Lemos](...)  
 
 ## Slide
-- [Slide](...)  
+- [Slide](...)
+
+## Trajectory
+- [Hackatruck: Empreendendo com Inovação e Tecnologia no Caminhão da IBM](https://www.linkedin.com/pulse/hackatruck-empreendendo-com-inova%C3%A7%C3%A3o-e-tecnologia-da-ibm-ferreira/)
+- [Roger Lemos - Sua experiência ](https://www.linkedin.com/feed/update/urn:li:activity:7076978883190824960/)
+
+
