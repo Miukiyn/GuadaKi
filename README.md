@@ -26,7 +26,7 @@ Este desenvolvimento não apenas demonstra o potencial dos estudantes para causa
 
 ## Devs:
 - [Alfredo](...)  
-- [Ana Rezende](...)  
+- [Ana Rezende](https://github.com/anarezend3)  
 - [Davi](https://github.com/daviferreiradev)  
 - [Iago Adrien](https://github.com/Miukiyn)  
 - [Roge Lemos](...)  
