@@ -1,4 +1,5 @@
-![Logo do Meu Projeto]([https://github.com/seu-usuario/seu-repositorio/raw/main/pasta-da-imagem/imagem.png](https://media.discordapp.net/attachments/497958230396239878/1144208421948772442/guardaki.png?width=587&height=676))
+![Logo do Meu Projeto]([https://github.com/seu-usuario/seu-repositorio/raw/main/pasta-da-imagem/imagem.png](https://github.com/Miukiyn/GuadaKi/blob/main/guardaki-interface.png))
+
 
 
 # GuadaKi
