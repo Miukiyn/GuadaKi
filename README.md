@@ -21,13 +21,5 @@ This application was a project developed by students from the Pontifical Catholi
 - [Iago Adrien](https://github.com/Miukiyn)  
 - [Roge Lemos](...)  
 
-## Codes
-- [App](...)  
-- [NodeMCU](...)  
-- [Node-Red](...)  
-
-## Screen
-- [...](...)  
-
 ## Slide
 - [Slide](...)  
