@@ -29,9 +29,9 @@ const char* password = "";
 
 // IBM Cloud
 #define ORG "6unkgi"
-#define DEVICE_TYPE "Arduino"
-#define DEVICE_ID "Arduino01"
-#define TOKEN "123456789"
+#define DEVICE_TYPE ""
+#define DEVICE_ID ""
+#define TOKEN ""
 
 // Broker Messagesight server
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
