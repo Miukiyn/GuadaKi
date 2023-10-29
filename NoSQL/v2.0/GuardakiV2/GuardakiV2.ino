@@ -20,7 +20,7 @@ char* travaON = "TRAVADO";
 char* travaOFF = "DESTRAVADO";
 
 // SSID e senha WiFi
-const char* ssid = "HackaTruckVisitantes";
+const char* ssid = "";
 const char* password = "";
 
 // Define a velocidade do som em cm/us
